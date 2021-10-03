@@ -1,18 +1,18 @@
-.info-container-1910 {
+.info-container-1930 {
     display: flex;
     text-align: center;
     padding-bottom: 10px;
 }
 
-.image-item-1910 {
+.image-item-1930 {
     width: 32%;
 }
 
-.image-1910 {
+.image-1930 {
     width: 99%;
 }
 
-.image-separator-1910 {
+.image-separator-1930 {
     display: none;
 }
 
@@ -58,19 +58,19 @@
 }
 
 @media ( max-width: $sm ) {
-    .image-item-1910 {
+    .image-item-1930 {
         width: 100%;
     }
 
-    .image-1910 {
+    .image-1930 {
         width: 100%;
     }
 
-    .image-separator-1910 {
+    .image-separator-1930 {
         display: block;
     }
 
-    .info-container-1910 {
+    .info-container-1930 {
         display: block;
     }
 
