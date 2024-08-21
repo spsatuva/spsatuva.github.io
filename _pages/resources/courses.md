@@ -34,7 +34,7 @@ Here are some summaries/descriptions of courses that are required/typically offe
         You can expect to cover chapters 1-21 
         <br>
         <br>
-        Prerequisite: Calculus 1 (MATH 1310) 
+        Prerequisite: Calc 1 (MATH 1310) 
         </p>
   </div>
 </div>
