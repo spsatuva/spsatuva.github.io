@@ -9,7 +9,7 @@ The physics department at UVA offers three different degrees. The Bachelors of A
 Here is the link to the pdf the department has that more information about the physics program and an example of a typical course schedule for each degree. [Major Brochure 2024-2025](http://www.phys.virginia.edu/Education/Programs/MajorBrochure/default.pdf)
 
 Here are some summaries/descriptions of courses that are required/typically offered:
-<div class="collapse-list-wrapper4phys14200"
+<div class="collapse-list-wrapper4phys1420"
      id="wrapper-1420">
     <div class="collapse-list-heading collapsed"
         data-toggle="collapse" 
@@ -22,7 +22,7 @@ Here are some summaries/descriptions of courses that are required/typically offe
   </div>
     <div class="collapse-list-target collapse"
         id="1420" 
-        aria-labelledby="14200" 
+        aria-labelledby="1420" 
         data-parent="#wrapper-1420">
         <p>     
         This is often the first physics class someone will take when they begin the physics major at UVA. It is a calculus based introduction that covers the following topics: kinematics, mechanics, fluid dynamics, thermodynamics, and simple harmonic motion. This class is a 3 credit course (3 credit lecture). 
@@ -34,42 +34,43 @@ Here are some summaries/descriptions of courses that are required/typically offe
         You can expect to cover chapters 1-21 
         <br>
         <br>
-        Prerequisite: Calculus 1 (MATH 1310) 
+        Prerequisite: Calculus 1 (MATH 1310)
+	<br> 
 	Corequisite: Calculus 2 (MATH 1320)
         </p>
   </div>
 </div>
 
 
-<div class="collapse-list-wrapper4phys1720" 
-     id="wrapper-1720">
+<div class="collapse-list-wrapper4phys2410" 
+     id="wrapper-2410">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
-         data-target="#1720" 
-         aria-controls="1720" 
+         data-target="#2410" 
+         aria-controls="2410" 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Intro Physics 2: PHYS 1720 </h2>
+<h2> Intro Physics 2: PHYS 2410 </h2>
 
   </div>
 
 <div class="collapse-list-target collapse" 
-         id="1720" 
-         aria-labelledby="1720" 
-         data-parent="#wrapper-1720">
+         id="2410" 
+         aria-labelledby="2410" 
+         data-parent="#wrapper-2410">
 
 <p>
-This is the second semester of introductory topics in physics and covers the following topics: gravitation, electricity & magnetism, and optics. Like PHYS 1710 this course is 5 credits with a discussion section. 
+This is the second semester of introductory topics in physics and covers the following topics: gravitation, electricity & magnetism, and optics. Like PHYS 1420 this course is 3 credits. 
 <br>
 <br>
-The text is the same as PHYS 1710 and you can expect to cover chapters 21-35. 
+The text is the same as PHYS 1420 and you can expect to cover chapters 21-35. 
 <br>
 <br>
 Here is a copy of the syllabus from when Prof. Basseler taught the course <a href="https://collab.its.virginia.edu/syllabi/public/dae98f12-1310-4f62-aed9-f1ab0625c5db">syllabus</a> 
 <br>
 <br>
-Prerequisites: Calculus 1 (MATH 1310) and 2 (MATH 1320), Introductory Physics I (PHYS 1710)  or General Physics I (PHYS 1425), and Calculus 3 (MATH 2310) is a corequisite. 
+Prerequisites: Calculus 1 (MATH 1310) and 2 (MATH 1320), Introductory Physics I (PHYS 1420)  or Introductory Physics I for Engineers (PHYS 1425), and Calculus 3 (MATH 2310) is a corequisite. 
 </p>
 </div>
 </div>
