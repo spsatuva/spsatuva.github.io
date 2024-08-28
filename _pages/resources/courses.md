@@ -25,7 +25,7 @@ Here are some summaries/descriptions of courses that are required/typically offe
         aria-labelledby="14200" 
         data-parent="#wrapper-1420">
         <p>     
-        This is often the first physics class someone will take when they begin the physics major at UVA. It is a calculus based introduction that covers the following topics: kinematics, mechanics, fluid dynamics, thermodynamics, and simple harmonic motion. This class is 3 credit course (4 credit lecture). 
+        This is often the first physics class someone will take when they begin the physics major at UVA. It is a calculus based introduction that covers the following topics: kinematics, mechanics, fluid dynamics, thermodynamics, and simple harmonic motion. This class is a 3 credit course (3 credit lecture). 
         <br>
         <br>
         The standard text is <a href="https://www.amazon.com/MasteringPhysics-Student-Physics-Scientists-Engineers/dp/0131992260"> Physics for Scientists and Engineers, Giancoli, 4th edtion</a>
