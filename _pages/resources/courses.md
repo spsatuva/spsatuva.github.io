@@ -6,7 +6,7 @@ title: Courses
 
 The physics department at UVA offers three different degrees. The Bachelors of Arts in Physics (B.A), The Bachelors of Science in Physics (B.S), and the Bachelors of Science in Astrophysics jointly with the Astronomy department (B.S). Depending on what kind of degree you are seeking will determine what courses you should think about taking. Of course you should consult your undergrad advisor for their advice on picking courses. 
 
-Here is the link to the pdf the department has that more information about the physics program and an example of a typical course schedule for each degree. [Major Brochure 2018-2019](http://www.phys.virginia.edu/Education/Programs/MajorBrochure/default.pdf)
+Here is the link to the pdf the department has that more information about the physics program and an example of a typical course schedule for each degree. [Major Brochure 2024-2025](http://www.phys.virginia.edu/Education/Programs/MajorBrochure/default.pdf)
 
 Here are some summaries/descriptions of courses that are required/typically offered:
 <div class="collapse-list-wrapper4phys14200"
@@ -35,6 +35,7 @@ Here are some summaries/descriptions of courses that are required/typically offe
         <br>
         <br>
         Prerequisite: Calculus 1 (MATH 1310) 
+	Corequisite: Calculus 2 (MATH 1320)
         </p>
   </div>
 </div>
