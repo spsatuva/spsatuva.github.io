@@ -75,12 +75,12 @@ Prerequisites: Calculus 1 (MATH 1310) and 2 (MATH 1320), Introductory Physics I 
 </div>
 </div>
 
-<div class="collapse-list-wrapper4phys1910" 
+<div class="collapse-list-wrapper4phys1930" 
      id="wrapper-1910">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
-         data-target="#1910" 
-         aria-controls="1910" 
+         data-target="#1930" 
+         aria-controls="1930" 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
@@ -89,9 +89,9 @@ Prerequisites: Calculus 1 (MATH 1310) and 2 (MATH 1320), Introductory Physics I 
   </div>
 
 <div class="collapse-list-target collapse" 
-         id="1910" 
-         aria-labelledby="1910" 
-         data-parent="#wrapper-1910">
+         id="1930" 
+         aria-labelledby="1930" 
+         data-parent="#wrapper-1930">
 
 <p>
 We have a whole page dedicated to this course already. 
@@ -134,7 +134,7 @@ A fair warning about this course: the material starts off really easy but it pro
 The texts for this course are <a href="https://www.amazon.com/C-Programming-Scientists-Engineers-Applications/dp/0763739529">C Programming for Scientists and Engineers with Applications by Carol Ziegler and Rama Reddy</a> and <a href="https://www.amazon.com/Statistics-Nuclear-Particle-Physicists-Louis/dp/0521379342/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=1AVEDEG1NHK67HT2YVXE">Statistics for Nuclear and Particle Physicists by Louis Lyons</a>
 <br>
 <br>
-Prerequisite: One semester of calculus (MATH 1310) and one semester of introductory physics (PHYS 1710, 1425, or 2010).
+Prerequisite: One semester of calculus (MATH 1310) and one semester of introductory physics (PHYS 1420, 1425, or 2010).
 
 </p>
 </div>
@@ -166,41 +166,40 @@ This class in an introduction into the more modern fields of 20th century physic
 The standard text is <a href="https://books.google.com/books/about/Modern_Physics.html?id=3tobAAAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false"> Modern Physics, Krane </a>
 <br>
 <br>
-Prerequisites: PHYS 2320, General Physics 2 (PHYS 2415) or Intro Phys 2 (PHYS 1720), or PHYS 2610, and Calculus 3 (MATH 2310)
+Prerequisites:  Intro Phys 2 for Engineers (PHYS 2415) or Intro Phys 2 (PHYS 2410),and Calculus 3 (MATH 2310)
 </p>
 </div>
 </div>
 
-<div class="collapse-list-wrapper4phys2630" 
-     id="wrapper-2630">
+<div class="collapse-list-wrapper4phys1429" 
+     id="wrapper-1429">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
-         data-target="#2630" 
-         aria-controls="2630" 
+         data-target="#1429" 
+         aria-controls="1429" 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Elementary Lab 1: PHYS 2630 </h2>
+<h2> Intro Physics I Workshop: PHYS 1429 </h2>
 
 </div>
 
 
 <div class="collapse-list-target collapse" 
-         id="2630" 
-         aria-labelledby="2630" 
-         data-parent="#wrapper-2630">
+         id="1429" 
+         aria-labelledby="1429" 
+         data-parent="#wrapper-1429">
 
 <p>
-This is an introductory lab course where students first become familiar with running experiments related to the topics covered in PHYS 1710 & 1720. The course focuses on quantification, computation, and data analysis with selected experiments in mechanics, heat, electricity & magnetism, and optics. 
+This is an introductory lab course where students first become familiar with running experiments related to the topics covered in PHYS 1420 and similar its analogues. The course focuses on quantification, computation, and data analysis with selected experiments in mechanics. 
 <br>
 <br>
- One lecture hour and four laboratory hours per week. 
+ One lecture hour 
  <br>
  <br>
-Prerequisite: Intro Physics 1 & 2, (PHYS 1710 & 1720).
+Corequisite: Intro Physics 1 (PHYS 1420 or 1425).
 <br>
-<br>
-This course is a lot of work outside of class so although it is a 3 credit course, be prepared to spend a lot of time on the lab reports. 
+<br> 
 <br>
 <br>
 </p>
@@ -216,19 +215,21 @@ This course is a lot of work outside of class so although it is a 3 credit cours
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Elementary Lab 2: PHYS 2640 </h2>
+<h2> Intro Physics 2 Workshop: PHYS 2419 </h2>
 </div>
 
 <div class="collapse-list-target collapse" 
-         id="2640" 
-         aria-labelledby="2640" 
-         data-parent="#wrapper-2640">
+         id="2419" 
+         aria-labelledby="2419" 
+         data-parent="#wrapper-2419">
 
 <p>
-This is the second semester of the introductory lab sequence for physics majors continuing with experiments in mechanics, heat, electricity & magnetism, and optics. 
+This is the second semester of the introductory lab sequence for physics majors continuing with experiments in electricity & magnetism, and optics. 
 <br>
 <br>
-Prerequisite: Intro Physics 1 & 2 (PHYS 1710 & 1720) and Elementary Lab 1 (PHYS 2630).
+Prerequisite: Intro Physics 1 Workshop (PHYS 1429)
+<br>
+Corequisite: PHYS 2410 or 2415
 
 </p>
 </div>
@@ -260,7 +261,7 @@ The standard text is <a href ="https://www.amazon.com/Classical-Mechanics-John-R
 You will cover chapters 1-11
 <br>
 <br>
-Prerequisite: Differential Equations (MATH 3250), and Intro Phys 2 (PHYS 1720)
+Prerequisite: Differential Equations (MATH 3250), and Intro Phys 2 (PHYS 2410)
 <br>
 </p>
 </div>
@@ -293,7 +294,7 @@ The standard text is <a href="https://books.google.com/books/about/Introduction_
 You can expect to cover chapters 1-7
 <br>
 <br>
-Prerequisite: Mathematics for Physics (MATH 4210), and Intro Physics 2 (PHYS 1720) or General Physics 2 (PHYS 2415).
+Prerequisite: Mathematics for Physics (PHYS 3340), and Intro Physics 2 (PHYS 2410) or Intro Phys 2 for Engineers (PHYS 2415).
 </p>
 </div>
 </div>
@@ -422,32 +423,32 @@ Prerequisite: Quantum Mechanics 1 (PHYS 3650).
 </div>
 </div>
 
-<div class="collapse-list-wrapper4phys3170" 
-     id="wrapper-3170">
+<div class="collapse-list-wrapper4phys3140" 
+     id="wrapper-3140">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
-         data-target="#3170" 
-         aria-controls="3170" 
+         data-target="#3140" 
+         aria-controls="3140" 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Intermediate Lab (1 or 2): PHYS 3170 or 3180 </h2>
+<h2> Intermediate Lab: PHYS 3140 </h2>
 
 </div>
 
 <div class="collapse-list-target collapse" 
          id="3170" 
-         aria-labelledby="3170" 
-         data-parent="#wrapper-3170">
+         aria-labelledby="3140" 
+         data-parent="#wrapper-3140">
 
 <p>
-Intermediate lab 1 and 2 are the same course, just offered during different semesters. These courses are designed to teach students on how to run more complicated and modern experiments that are based on quantum mechanics, solid state physics, and optics. Students will also learn on how to write extensive and thorough lab reports that require reading peer reviwed literature. Students will be paired up in partners and will choose 5 experiments to do that take about 2.5 weeks each. You will write a lab report for 4 of them and will then present the last one for a presentation grade. 
+ This course is designed to teach students on how to run more complicated and modern experiments that are based on quantum mechanics, solid state physics, and optics. Students will also learn on how to write extensive and thorough lab reports that require reading peer reviwed literature. Students will be paired up in partners and will choose 5 experiments to do that take about 2.5 weeks each. You will write a lab report for 4 of them and will then present the last one for a presentation grade. 
 <br>
 <br>
 Like most labs, you can expect a lot of work outside of class. 
 <br>
 <br>
-Prerequisite: Elementary Lab 2 (PHYS 2640) or General Physics II Workshop (PHYS 2419). Intermidate Lab 1 (PHYS 3170) is an independent course, and not a prerequisite for PHYS 3180
+Prerequisite: Intro Physics 2 Workshop (PHYS 2419). 
 </p>
 </div>
 </div>
@@ -486,7 +487,7 @@ All physics students seeking the bachelors of science must take PHYS 3995 under 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Widely Applied Physics: PHYS 3995 </h2>
+<h2> Widely Applied Physics: PHYS 3110 </h2>
 
 </div>
 
@@ -530,7 +531,7 @@ Prerequisite: Modern Physics (PHYS 2620)
 The course begins by covering the fundamentals of analog and digital electronics, including the use of transistors, FET's, operational amplifiers, TTL, and CMOS integrated circuits. Following this students conduct projects with modern microcontroller boards (Arduino and Raspberry Pi) using the concepts and the experience gained from the prior fundamentals. Six laboratory hours
 <br>
 <br>
-Prerequisite: Elementary Lab 2 (PHYS 2640) or Basic Physics Labratory 2 (PHYS 2040) or General Physics II Workshop (PHYS 2419)
+Prerequisite: Intro Physics 2 for Engineers (PHYS 2419)
 </p>
 </div>
 </div>
@@ -559,7 +560,7 @@ This course introduces topics such as reflection and refraction at interfaces, g
 Standard text is <a href="https://www.amazon.com/Optics-Miles-V-Klein/dp/0471872970">Optics by Klien & Furtak</a>
 <br>
 <br>
-Prerequisite: General Physics 2 (PHYS 2415) or an equivalent college-level electromagnetism course; knowledge of vector calculus and previous exposure to Maxwell's equations.
+Prerequisite: Intro Physics 2 (PHYS 2410 or 2415) or an equivalent college-level electromagnetism course; knowledge of vector calculus and previous exposure to Maxwell's equations.
 </p>
 </div>
 </div>
@@ -683,9 +684,9 @@ Application of basic physics principles to functions of the human body: biomecha
 No textbook for this class so its important that you go to class and take good notes. 
 <br>
 <br>
-Prerequisite: a semester of calculus and Principles of Physics 1 (PHYS 2010) or General Physics 1 (PHYS 1425) or Intro Physics 1 (PHYS 1710).
+Prerequisite: a semester of calculus and Principles of Physics 1 (PHYS 2010) or Intro  Physics 1 for Engineers (PHYS 1425) or Intro Physics 1 (PHYS 1420).
 <br> 
-Corequisite: Principles of Physics 2 (PHYS 2020) or General Physics 2 (PHYS 2415) or Intro Physics 2 (PHYS 1720)
+Corequisite: Principles of Physics 2 (PHYS 2020) or Intro Physics 2 for Engineers (PHYS 2415) or Intro Physics 2 (PHYS 2410)
 </p>
 </div>
 </div>
@@ -976,13 +977,13 @@ Prerequisite: Calculus 2 (MATH 1320) or its equivalent.
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Mathematics for Physics: MATH 4210 </h2>
+<h2> Mathematics for Physics: PHYS 3340 </h2>
     </div>
 
 <div class="collapse-list-target collapse" 
-         id="4210" 
-         aria-labelledby="4210" 
-         data-parent="#wrapper-4210">
+         id="3340" 
+         aria-labelledby="3340" 
+         data-parent="#wrapper-3340">
 
 <p>
 This course covers linear algebra/complex analysis/vector differential & integral calculus. Thus it is a compressed version of MATH 3351 & MATH 3340 and a review of some of the material in MATH 2310. Emphasis is on the physical interpretation. [This course does not count as a Mathematics elective for Mathematics majors if both MATH 3351 and MATH 3340 are to be counted.] 
