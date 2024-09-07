@@ -206,12 +206,12 @@ Corequisite: Intro Physics 1 (PHYS 1420 or 1425).
 </div>
 </div>
 
-<div class="collapse-list-wrapper4phys2630" 
-     id="wrapper-2640">
+<div class="collapse-list-wrapper4phys2419" 
+     id="wrapper-2419">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
-         data-target="#2640" 
-         aria-controls="2640" 
+         data-target="#2419" 
+         aria-controls="2419" 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
@@ -437,7 +437,7 @@ Prerequisite: Quantum Mechanics 1 (PHYS 3650).
 </div>
 
 <div class="collapse-list-target collapse" 
-         id="3170" 
+         id="3140" 
          aria-labelledby="3140" 
          data-parent="#wrapper-3140">
 
@@ -968,12 +968,12 @@ Prerequisite: Calculus 2 (MATH 1320) or its equivalent.
 </div>
 </div>
 
-<div class="collapse-list-wrapper4math4210" 
-     id="wrapper-4210">
+<div class="collapse-list-wrapper4phys3340" 
+     id="wrapper-3340">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
-         data-target="#4210" 
-         aria-controls="4210" 
+         data-target="#3340" 
+         aria-controls="3340" 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
