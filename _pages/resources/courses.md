@@ -84,7 +84,7 @@ Prerequisites: Calculus 1 (MATH 1310) and 2 (MATH 1320), Introductory Physics I 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Introduction to Physics Research: PHYS 1910 </h2>
+<h2> Physics in the 21st Century: PHYS 1930 </h2>
 
   </div>
 
@@ -94,10 +94,10 @@ Prerequisites: Calculus 1 (MATH 1310) and 2 (MATH 1320), Introductory Physics I 
          data-parent="#wrapper-1910">
 
 <p>
-We have a whole page deticated to this course already. 
+We have a whole page dedicated to this course already. 
 <br>
 <br>
-Check it out <a href= "/phys1910/about/"> here</a>
+Check it out <a href= "/phys1930/about/"> here</a>
 </p>
 </div>
 </div>
