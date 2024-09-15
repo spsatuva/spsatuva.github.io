@@ -25,7 +25,5 @@ header: # Navigation links
         link: '/partner-organizations/sigma'
       - name: 'aNoether'
         link: '/partner-organizations/anoether'
-  - name: 'About SPS'
-    link: '/about-sps'
   - name: 'Contact'
     link: '/contact'
