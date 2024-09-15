@@ -76,7 +76,7 @@ Prerequisites: Calculus 1 (MATH 1310) and 2 (MATH 1320), Introductory Physics I 
 </div>
 
 <div class="collapse-list-wrapper4phys1930" 
-     id="wrapper-1910">
+     id="wrapper-1930">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
          data-target="#1930" 
@@ -105,36 +105,33 @@ Check it out <a href= "/phys1930/about/"> here</a>
 
 
 
-<div class="collapse-list-wrapper4phys2660" 
-     id="wrapper-2660">
+<div class="collapse-list-wrapper4phys1655" 
+     id="wrapper-1655">
 <div class="collapse-list-heading collapsed" 
          data-toggle="collapse" 
-         data-target="#2660" 
-         aria-controls="2660" 
+         data-target="#1655" 
+         aria-controls="1655" 
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Fundamentals of Scientific Computing: PHYS 2660 </h2>
+<h2> Introduction to Python for Scientists and Engineers: PHYS 1655 </h2>
 
   </div>
 
 <div class="collapse-list-target collapse" 
-         id="2660" 
-         aria-labelledby="2660" 
-         data-parent="#wrapper-2660">
+         id="1655" 
+         aria-labelledby="1655" 
+         data-parent="#wrapper-1655">
 
 <p>
-This class is an introduction into the C programming language and its purpose is to familiarize students to solving basic physics problems using programming. In this class you will learn the use of external libraries, implementation of basic algorithms with focus on numerical methods, and error analysis & data fitting. Lecture meets once a week and there is a lab session every week. 
-<br>
-<br>
-A fair warning about this course: the material starts off really easy but it progressively gets more difficult, especially the final project. You can ask anyone who took this course and they will all tell you the same thing... START THE FINAL EARLY! 
+This course provides an introduction to the Python programming language with applications to common problems in the science and engineering fields. It emphasizes three core skills: analyzing data, simulating data, and visualizing data. No previous programming or computer experience is required. 
 <br>
 <br>
 
-The texts for this course are <a href="https://www.amazon.com/C-Programming-Scientists-Engineers-Applications/dp/0763739529">C Programming for Scientists and Engineers with Applications by Carol Ziegler and Rama Reddy</a> and <a href="https://www.amazon.com/Statistics-Nuclear-Particle-Physicists-Louis/dp/0521379342/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=1AVEDEG1NHK67HT2YVXE">Statistics for Nuclear and Particle Physicists by Louis Lyons</a>
+There is no specific text for this course but many resources including lecture notes will be given.
 <br>
 <br>
-Prerequisite: One semester of calculus (MATH 1310) and one semester of introductory physics (PHYS 1420, 1425, or 2010).
+Prerequisite: One semester of calculus (MATH 1310)
 
 </p>
 </div>
