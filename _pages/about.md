@@ -1,8 +1,8 @@
 
 ---
 layout: page
-published: false
 title: About
+published: false
 ---
 
 # Who We Are

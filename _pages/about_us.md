@@ -1,8 +1,8 @@
 
 ---
 layout: page
-published: false
 title: About SPS
+published: false
 ---
 
 # Who We Are
