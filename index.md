@@ -57,6 +57,3 @@ New Updates! This is a list of professors looking for students. See the resource
     {% endfor %}
 </div>
 
-<div class="div-calendar" align="center">
-    <iframe src="https://calendar.google.com/calendar/embed?src=d55hnepu6qjp8q3krgeh1kvlb0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> 
-</div>
