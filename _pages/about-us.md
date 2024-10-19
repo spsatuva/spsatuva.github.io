@@ -83,4 +83,94 @@ Majors: BS Physics, BA Chemistry
 Research Interests: High energy physics
 <br>
 Favorite Class: PHYS 2720: Problem Solving, since the professor did a great job of keeping the physics relevant to actual things while still introducing really interesting concepts (bonus points for bringing in a Tesla coil).
+<br>
+{% include lazy-image.html
+   image="Brian.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Brian Meiser
+<br>
+SPS Position: Secretary
+<br>
+Majors: Math and Physics
+<br>
+Research Interest: Mathematical Physics
+<br>
+Favorite Class Taken at UVA: Independent Study (Math 4993) under the Directed Reading Program; This independent study allowed me to get a personalized introduction to mathematical physics, which I was able to discover, due to this program, to be my research interest. 
+<br>
+{% include lazy-image.html
+   image="Chance.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Chance Woodson
+<br>
+SPS Position: Webmaster
+<br>
+Major: Physics and CS Minor
+<br>
+Research Interests: Quantum Computing, Computational Physics, and Condensed Matter
+<br>
+Favorite Class: My favorite class thus far has been Calculus III because of its applications to areas of physics such as electricity and magnetism, which first sparked my interest in physics.
+<br>
+{% include lazy-image.html
+   image="Quentin.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Quentin Simmons
+<br>
+SPS Position: Social Chair
+<br>
+Major: Physics, Minor: Material Science and Spanish
+<br>
+Research Interests: Experimental Condensed Matter Physics
+<br>
+Favorite Class: My favorite class has been American History From Below in the Spanish department, because South/North American history is wild and it's nice to have a break from Physics.
+<br>
+{% include lazy-image.html
+   image="Gavin.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Gavin Prestholdt
+<br>
+SPS Position: Co-Outreach Chair
+<br>
+Major: Physics Major
+<br>
+Research Interests: Quantum Computing, Quantum Information Science and Medical Physics
+<br>
+Favorite Class: E&M 1 – I really enjoyed the rigorous application of math to very visualizable physical phenomena. It helped me see the world in a much more logical and mathematical way.  Not to mention the subject itself is downright fascinating!
+<br>
+{% include lazy-image.html
+   image="Jackson.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Jackson Glass
+<br>
+SPS Position: Outreach Cochair
+<br>
+Major/Minor: Physics Major & Data Science Minor
+<br>
+Research Area: Condensed Matter
+<br>
+Favorite Class at UVA & Why: Astrophysics I, it was my first physics class at UVA, and persuaded me to pick physics as my major.
+<br>
+{% include lazy-image.html
+   image="Erum.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Erum Vohra
+<br>
+SPS Position: DEI Chair
+<br>
+Major(s): Astronomy-Physics & Math
+<br>
+Research Interests: Radio Astronomy, Gravity
+<br>
+Favorite Class: PDEs, because the professor was really good and the people were really nice.
 
