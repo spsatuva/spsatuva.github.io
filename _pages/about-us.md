@@ -68,5 +68,19 @@ Majors: Physics and Computer Science, Minor: Data Science
 Research Interests: My main research interest is Medical Imaging and Radiology, but I've been in High Energy Physics and Quantum Physics Labs.
 <br>
 Favorite Class: Medical Imaging Modalities (BME 4783)
-
+<br>
+{% include lazy-image.html
+   image="Carter.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Carter Patten
+<br>
+SPS Position: SPS Treasurer
+<br>
+Majors: BS Physics, BA Chemistry
+<br>
+Research Interests: High energy physics
+<br>
+Favorite Class: PHYS 2720: Problem Solving, since the professor did a great job of keeping the physics relevant to actual things while still introducing really interesting concepts (bonus points for bringing in a Tesla coil).
 
