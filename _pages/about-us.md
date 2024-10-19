@@ -45,6 +45,7 @@ Favorite Class: My favorite physics class I've taken at UVA is "Quantum Physics 
    base-path='pages/about-us'
 %}
 <br>
+Name: Laura Carnevale
 SPS Position: President of Sigma Pi Sigma
 <br>
 Major(s): BS Astronomy/Physics & BA Philosophy
@@ -52,6 +53,20 @@ Major(s): BS Astronomy/Physics & BA Philosophy
 Research Interests: I'm currently doing research about the relation between mass, star formation rate, and metallicity of galaxies across different simulations of the universe & I'm interested in the evolution of stars and galaxies in general :)
 <br>
 Favorite Class: Greek Mythology because I've always been interested in it so learning about it more in depth was super fun + Intro Astrophysics 2 because Craig Sarazin >>>>
-
+<br>
+{% include lazy-image.html
+   image="Anran.png"
+   base-path='pages/about-us'
+%}
+<br>
+Name: Anran Zhao
+<br>
+SPS Position: Sigma Pi Sigma Vice President
+<br>
+Majors: Physics and Computer Science, Minor: Data Science
+<br>
+Research Interests: My main research interest is Medical Imaging and Radiology, but I've been in High Energy Physics and Quantum Physics Labs.
+<br>
+Favorite Class: Medical Imaging Modalities (BME 4783)
 
 
