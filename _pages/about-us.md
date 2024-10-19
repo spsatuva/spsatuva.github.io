@@ -10,4 +10,12 @@ limited to working with students from local K-12 schools such as Charlottesville
 
 # Executive Board 2024-2025
 
+{% include lazy-image.html 
+   image="Shrinidhi.JPEG" 
+   base-path='pages/about-us'
+%}
+
+
+
+
 
