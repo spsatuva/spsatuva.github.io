@@ -13,6 +13,7 @@ limited to working with students from local K-12 schools such as Charlottesville
 {% include lazy-image.html 
    image="Shrinidhi.jpg" 
    base-path='pages/about-us'
+   image-class='clark-header-image'
 %}
 
 
