@@ -29,7 +29,16 @@ Your favorite Class that you've taken at UVA and why: Electronics (ECE), I reall
    image="Christian.jpg"
    base-path='pages/about-us'
 %}
-
+<br>
+Name: Christian Guinto-Brody
+<br>
+SPS Position: Vice President
+<br>
+Major(s)/Minor(s): Physics B.S. with a Philosophy Minor
+<br>
+Research: Currently doing experimental high-energy physics, interested in how we can improve particle detection techniques with more precise timing and better calorimetry.
+<br>
+Favorite Class: My favorite physics class I've taken at UVA is "Quantum Physics II" because it applied everything I learned in Quantum Physics I and Modern Physics to very neat phenomena in the quantum realm. Though I've taken some great non-physics classes like "The Meaning of Life" in the philosophy department and "Intro to Composition" in the music department, both of which prompted me to think in more artistic ways and create original works.
 
 
 
