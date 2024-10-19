@@ -22,6 +22,7 @@ SPS Position: President
 Major(s) / Minor(s): Electrical Engineering and Physics
 <br>
 Research Interests or Area of Physics you find the coolest: Optics and Instrumentation
+<br>
 Your favorite Class that you've taken at UVA and why: Electronics (ECE), I really enjoyed getting to experiment with different devices (op-amps, transistors, etc) and see how they worked, as well as their applications.
 
 
