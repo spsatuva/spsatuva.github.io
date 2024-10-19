@@ -160,7 +160,7 @@ Research Area: Condensed Matter
 Favorite Class at UVA & Why: Astrophysics I, it was my first physics class at UVA, and persuaded me to pick physics as my major.
 <br>
 {% include lazy-image.html
-   image="Erum.jpg"
+   image="Erum2.jpg"
    base-path='pages/about-us'
 %}
 <br>
