@@ -39,8 +39,19 @@ Major(s)/Minor(s): Physics B.S. with a Philosophy Minor
 Research: Currently doing experimental high-energy physics, interested in how we can improve particle detection techniques with more precise timing and better calorimetry.
 <br>
 Favorite Class: My favorite physics class I've taken at UVA is "Quantum Physics II" because it applied everything I learned in Quantum Physics I and Modern Physics to very neat phenomena in the quantum realm. Though I've taken some great non-physics classes like "The Meaning of Life" in the philosophy department and "Intro to Composition" in the music department, both of which prompted me to think in more artistic ways and create original works.
-
-
+<br>
+{% include lazy-image.html
+   image="Laura.jpg"
+   base-path='pages/about-us'
+%}
+<br>
+SPS Position: President of Sigma Pi Sigma
+<br>
+Major(s): BS Astronomy/Physics & BA Philosophy
+<br>
+Research Interests: I'm currently doing research about the relation between mass, star formation rate, and metallicity of galaxies across different simulations of the universe & I'm interested in the evolution of stars and galaxies in general :)
+<br>
+Favorite Class: Greek Mythology because I've always been interested in it so learning about it more in depth was super fun + Intro Astrophysics 2 because Craig Sarazin >>>>
 
 
 
