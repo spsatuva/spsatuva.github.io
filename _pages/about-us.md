@@ -14,15 +14,11 @@ limited to working with students from local K-12 schools such as Charlottesville
    image="Shrinidhi.jpg" 
    base-path='pages/about-us'
 %}
-
+<br>
 Name: Shrinidhi Nadgouda
-
 SPS Position: President
-
 Major(s) / Minor(s): Electrical Engineering and Physics
-
 Research Interests or Area of Physics you find the coolest: Optics and Instrumentation
-
 Your favorite Class that you've taken at UVA and why: Electronics (ECE), I really enjoyed getting to experiment with different devices (op-amps, transistors, etc) and see how they worked, as well as their applications.
 
 
