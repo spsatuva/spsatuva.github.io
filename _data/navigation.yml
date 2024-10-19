@@ -27,5 +27,5 @@ header: # Navigation links
         link: '/partner-organizations/anoether'
   - name: 'Contact'
     link: '/contact'
-  - name: 'About US'
-    link:'/about-us'
+  - name: 'About Us'
+    link: '/about-us'
