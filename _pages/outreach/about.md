@@ -5,6 +5,23 @@ title: Outreach
 
 Our SPS chapter participates in a number of outreach programs, and all SPS members are able to be involved in these.
 
+# Outreach Program at Charlottesville High School
+
+{% include lazy-image.html
+   image='CHS.jpg'
+   base-path='pages/outreach'
+   image-class="clark-header-image"
+%}
+We really enjoyed volunteering this October (2024) at Charlottesville High School!
+
+We talked to CHS students about majoring in physics, starting college, and how they can get involved in research!
+
+Each of our 4 volunteers gave a short presentation on their research experiences, and CHS students got the chance to ask them questions
+
+Many students were interested in the research topics we talked about, ranging from astrophysics to quantum computing.
+
+It's always a great time to visit Mr. Manning's class, we look forward to coming back soon!"
+
 # CLASS Program at Clark Elementary
 
 {% include lazy-image.html
