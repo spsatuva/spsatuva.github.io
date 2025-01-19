@@ -305,7 +305,7 @@ Prerequisite: Mathematics for Physics (PHYS 3340), and Intro Physics 2 (PHYS 241
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
-<h2> Electricity and Magnetism 2: PHYS 3420 </h2>
+<h2> Electricity and Magnetism 2: PHYS 3430 </h2>
     </div>
 
 <div class="collapse-list-target collapse" 
@@ -934,11 +934,11 @@ Prerequisite: Calculus 2 (MATH 1320) or the equivalent.
 </div>
 
 <div class="collapse-list-wrapper4math3250"
-     id="wrapper-3250">                     
+     id="wrapper-3000">                     
 <div class="collapse-list-heading collapsed"
          data-toggle="collapse"
-         data-target="#3250"
-         aria-controls="3250"
+         data-target="#3000"
+         aria-controls="3000"
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
@@ -946,9 +946,9 @@ Prerequisite: Calculus 2 (MATH 1320) or the equivalent.
     </div>
 
 <div class="collapse-list-target collapse"
-         id="3250"
-         aria-labelledby="3250"
-         data-parent="#wrapper-3250">
+         id="3000"
+         aria-labelledby="3000"
+         data-parent="#wrapper-3000">
 <p>
 Intoduces the methods, theory, and applications of differential equations. Includes first-order, second and higher-order linear equations, series solutions, linear systems of first-order differential equations, and the associated matrix theory. May include numerical methods, non-linear systems, boundary value problems, and additional applications.
 <br>
