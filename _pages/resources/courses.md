@@ -944,7 +944,7 @@ Prerequisite: Calculus 2 (MATH 1320) or the equivalent.
 <i class="arrow h2arrow"></i>
 <h2> Ordinary Differential Equations: MATH 3250 </h2>
 
-</div>
+   </div>
 
 <div class="collapse-list-target collapse" 
          id="3250" 
