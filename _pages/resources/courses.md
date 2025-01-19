@@ -933,25 +933,22 @@ Prerequisite: Calculus 2 (MATH 1320) or the equivalent.
 </div>
 </div>
 
-<div class="collapse-list-wrapper4math3250" 
-     id="wrapper-3250">
-<div class="collapse-list-heading collapsed" 
-         data-toggle="collapse" 
-         data-target="#3250" 
-         aria-controls="3250" 
+<div class="collapse-list-wrapper4math3250"
+     id="wrapper-3250">                     
+<div class="collapse-list-heading collapsed"
+         data-toggle="collapse"
+         data-target="#3250"
+         aria-controls="3250"
          aria-expanded="false">
 
 <i class="arrow h2arrow"></i>
 <h2> Ordinary Differential Equations: MATH 3250 </h2>
+    </div>
 
-   </div>
-
-<div class="collapse-list-target collapse" 
-         id="3250" 
-         aria-labelledby="3250" 
+<div class="collapse-list-target collapse"
+         id="3250"
+         aria-labelledby="3250"
          data-parent="#wrapper-3250">
-
-
 <p>
 Intoduces the methods, theory, and applications of differential equations. Includes first-order, second and higher-order linear equations, series solutions, linear systems of first-order differential equations, and the associated matrix theory. May include numerical methods, non-linear systems, boundary value problems, and additional applications.
 <br>
