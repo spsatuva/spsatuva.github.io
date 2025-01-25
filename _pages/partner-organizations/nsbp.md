@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NSBP
-featured-img:{% include lazy-image.html image="nsbp.jpg" base-path="pages/nsbp" %} 
+featured-img: {% include lazy-image.html image="nsbp.jpg" base-path="pages/nsbp" %} 
 ---
 
 # About
