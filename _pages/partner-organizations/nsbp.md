@@ -10,3 +10,22 @@ Developing and supporting efforts to increase opportunities and visibility for B
 Promoting activities and programs that highlight and maximize the impact of the scientific contributions made by Black physicists and astronomers to the STEM community.
 Increasing awareness, accessibility, and appreciation of physics and astronomy within the Black community at UVA, Charlottesville, and beyond.
 
+
+# Meeting Times
+
+NSBP meets weekly on Thursdays from 5-6 pm in the conference room of the astronomy building. If you are ever available, feel free to join us for good conversation and refreshments!
+
+
+# Contact
+
+President: Kiara Ruffin (kcr9jqr@virginia.edu)
+
+Vice President: Altony Foote (evv2dx@virginia.edu)
+
+Secretary: Chance Woodson (yce6db@virginia.edu)
+
+Treasurer: Ishika Gobin (vqp6rf@virginia.edu)
+
+Outreach Coordinator: Muhammad Mousa (yxh6rh@virginia.edu)
+
+Digital Media Coordinator: Julien Kearns (mue9jp@virginia.edu)
