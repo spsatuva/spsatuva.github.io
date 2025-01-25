@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NSBP
+featured-img:{% include lazy-image.html image="nsbp.jpg" base-path="pages/nsbp" %} 
 ---
 
 # About
@@ -11,7 +12,7 @@ Promoting activities and programs that highlight and maximize the impact of the 
 Increasing awareness, accessibility, and appreciation of physics and astronomy within the Black community at UVA, Charlottesville, and beyond.
 
 
-# Meeting Times
+# Meeting Time
 
 NSBP meets weekly on Thursdays from 5-6 pm in the conference room of the astronomy building. If you are ever available, feel free to join us for good conversation and refreshments!
 
