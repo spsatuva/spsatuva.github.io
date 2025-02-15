@@ -25,7 +25,7 @@ Please feel free to reach out with any questions or comments, and we hope to see
 # Contact
 
 - [Instagram](https://www.instagram.com/physwomenatuva/)
-- [GroupMe]: (https://groupme.com/join_group/102435586/bLUXiavy)
+- [GroupMe](https://groupme.com/join_group/102435586/bLUXiavy)
 
 ### Executive Board Members
 
