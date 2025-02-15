@@ -25,10 +25,11 @@ Please feel free to reach out with any questions or comments, and we hope to see
 # Contact
 
 - [Instagram](https://www.instagram.com/physwomenatuva/)
+- [GroupMe]: (https://groupme.com/join_group/102435586/bLUXiavy)
 
 ### Executive Board Members
 
-- President: Dawn Ford (dcf5kwt@virginia.edu)
+- President: Gabby Niculescu ((stm7ks@virginia.edu)
 
 aNoether would like to thank the American Physical Society for its support through the Women in Physics program!
 
