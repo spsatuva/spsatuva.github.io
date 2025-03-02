@@ -85,21 +85,6 @@ Research Interests: High energy physics
 Favorite Class: PHYS 2720: Problem Solving, since the professor did a great job of keeping the physics relevant to actual things while still introducing really interesting concepts (bonus points for bringing in a Tesla coil).
 <br>
 {% include lazy-image.html
-   image="Brian.jpg"
-   base-path='pages/about-us'
-%}
-<br>
-Name: Brian Meiser
-<br>
-SPS Position: Secretary
-<br>
-Majors: Math and Physics
-<br>
-Research Interest: Mathematical Physics
-<br>
-Favorite Class Taken at UVA: Independent Study (Math 4993) under the Directed Reading Program; This independent study allowed me to get a personalized introduction to mathematical physics, which I was able to discover, due to this program, to be my research interest. 
-<br>
-{% include lazy-image.html
    image="Chance.jpg"
    base-path='pages/about-us'
 %}
@@ -166,7 +151,7 @@ Favorite Class at UVA & Why: Astrophysics I, it was my first physics class at UV
 <br>
 Name: Erum Vohra
 <br>
-SPS Position: DEI Chair
+SPS Position: Community Building Chair
 <br>
 Major(s): Astronomy-Physics & Math
 <br>
