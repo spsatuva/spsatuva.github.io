@@ -44,10 +44,6 @@ project-list:
     short-name: escape-really-fast
     title: Escape faster than the Kramer's escape problem
     url: https://docs.google.com/document/d/e/2PACX-1vTyZ2IsomD51eaa98RieMh-XzPXODhKmMzxunYWazM_m9r3WNZUtLLajKMoEwGVEdeIq8Cwf-2YVVP7/pub
-  - name: Peter Schauss
-    short-name: schauss-lab
-    title: Variety of experimental and simulation projects
-    url: https://docs.google.com/document/d/e/2PACX-1vTWKnv-pVW1z0K5GJ9AtNIn-7hZDv2GT9epxluSnVtFfuYT7jHDFkrTtCtiAyDeX9SNm4kucCFcYOqy/pub
   - name: Blaine Norum
     short-name: norum-lab
     title: Study of two-nucleon systems
