@@ -67,7 +67,7 @@ Majors: Physics BS, considering Environmental Science and/or Math major/minor
 <br>
 Research Interests: Application of physical principles to macroscopic environmental systems, computational physics, and condensed matter physics
 <br>
-Favorite Class: Application of physical principles to macroscopic environmental systems, computational physics, and condensed matter physics
+Favorite Class: : MATH 3315 – Advanced Calculus and Linear Algebra II because of the exceptional instruction, wonderful people, and cohesive coverage of a huge amount of math; and also AMST 2001 – Introduction to American Studies, because I still talk about that class all the time with people.
 <br>
 {% include lazy-image.html
    image="Chance.jpg"
