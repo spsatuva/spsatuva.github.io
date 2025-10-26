@@ -15,7 +15,7 @@ The Thirteenth Annual Sigma Pi Sigma Undergraduate Physics Research Symposium wa
 
 Prizes were given to the best three presentations and posters. We would like to congratulate the following students for their outstanding performance:
 
-- Oral: 1st - Quentin; 2nd - Kieran ; 3rd - Jackson
+- Oral: 1st - Quentin; 1st - Kieran(Tied) ; 2nd - Jackson
 - Name: Quentin Simmons
 - Title: A Doping Study of a Candidate High Temperature Non-centrosymmetric
 Superconductor: REBaCuBO5
