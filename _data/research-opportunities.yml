@@ -40,14 +40,6 @@ project-list:
     short-name: thermo-spin
     title: Thermoelectrics and Spintronics
     url: https://docs.google.com/document/d/e/2PACX-1vRLj04jJ04BU-z98SpB3aG7eAFmIpuNkR5qcPstIkKgSIh5RHgsUyHEkqa4VVl85iDDXy7ldK9-j-sL/pub
-  - name: Marija Vucelja
-    short-name: escape-really-fast
-    title: Escape faster than the Kramer's escape problem
-    url: https://docs.google.com/document/d/e/2PACX-1vTyZ2IsomD51eaa98RieMh-XzPXODhKmMzxunYWazM_m9r3WNZUtLLajKMoEwGVEdeIq8Cwf-2YVVP7/pub
-  - name: Blaine Norum
-    short-name: norum-lab
-    title: Study of two-nucleon systems
-    url: https://docs.google.com/document/d/e/2PACX-1vSpgyguaYkgBln185R4lw4ceo-iRo_ktT-mEslSXmTZIwkkN8If7ljtXFEw45z-2klPqLUmUIZWeO0G/pub
   - name: Dima Pesin
     short-name: crystaldyn
     title: Chiral hydrodynamics in crystals
@@ -60,10 +52,6 @@ project-list:
     short-name: hirosky-lab
     title: Particle detectors, real-time data processing, physics studies
     url: https://docs.google.com/document/d/e/2PACX-1vQ8R1NKpuR6PaOgpTmRcyN5ArlnbWeGVji2VNTlWMWbhy0Cg_n3LWwAIoHLMyZ83qixigYs6ixNnh8c/pub
-  - name: Mool Gupta
-    short-name: Beaming
-    title: Mool Gupta-Beaming Energy on Mars
-    url: https://docs.google.com/document/d/e/2PACX-1vSQmjooKNWK9OstMyOuhywDMhA4qlacRwkWlLChoVPfw08Yk3HQanexSYW6AKkIHfKTn8E8Xu2bSqZR/pub
   - name: Gai-Wei Chern
     short-name: chern-research
     title: Machine Learning Models for Physics
